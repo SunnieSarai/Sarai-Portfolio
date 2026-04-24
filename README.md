@@ -6,7 +6,7 @@ Visitors can explore my projects, learn about my approach, and reach out for col
 
 ---
 
-## 🧰 Tech Stack (Industry Context)
+## 🧰 Tech Stack 
 | Tool/Library | What It Does | Why I Chose It |
 |--------------|---------------|----------------|
 | **HTML5** | Structure & semantic markup | Industry standard; I wanted to practice what i've learned |
