@@ -5,7 +5,9 @@ This is my personal portfolio — a visual and interactive space where I showcas
 Visitors can explore my projects, learn about my approach, and reach out for collaborations.
 
 ---
-
+## 🧰 Tech Stack 
+Check out my design in all it's glory here https://sunniesarai.github.io/Sarai-Portfolio/ !
+---
 ## 🧰 Tech Stack 
 | Tool/Library | What It Does | Why I Chose It |
 |--------------|---------------|----------------|
