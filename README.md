@@ -7,7 +7,19 @@ Visitors can explore my projects, learn about my approach, and reach out for col
 ---
 
 ## 🧰 Tech Stack (Industry Context)
+| Tool/Library | What It Does | Why I Chose It |
+|--------------|---------------|----------------|
+| **HTML5** | Structure & semantic markup | Industry standard; accessible foundation for all web content |
+| **CSS3** (custom) | Animations, layout, responsive design | Full creative control without framework bloat; custom keyframe animations (float, typewriter, fade-up) |
+| **JavaScript (Vanilla)** | Interactivity, DOM manipulation, API calls | No framework overhead; lighter bundle, faster load times, and complete control over UX |
+| **TailwindCSS** | Utility-first CSS framework | Speeds up responsive design; consistent spacing/colors; widely adopted for rapid UI iteration |
+| **Lucide Icons** | Lightweight SVG icon library | Modern, consistent, and accessible icon set (replaces FontAwesome) |
+| **Formspree** | Backendless form handling | Free tier; sends form submissions to my email without needing a server |
+| **GitHub Pages** | Static site hosting | Free, fast global CDN, automatic HTTPS, and seamless custom domain integration |
+| **Intersection Observer API** | Scroll-triggered animations | Native browser API; more performant than scroll-event listeners |
+| **Element SDK (custom)** | On-page content/color editing | Allows dynamic content changes without touching code — useful for portfolio iterations |
 
+---
 
 
 ## ✨ Features
