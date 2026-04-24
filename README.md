@@ -4,6 +4,8 @@ This is my personal portfolio — a visual and interactive space where I showcas
 
 Visitors can explore my projects, learn about my approach, and reach out for collaborations.
 
+Enjoy your journey from my most recent works, to one of my firsts. I believe that it's important to maintain a working log of your accomplishments and growth so that we never take for granted the hard work done to get where we are. Please, Take a trip down memory lane with me. 
+
 ---
 ## 🧰 Tech Stack 
 Check out my design in all it's glory here https://sunniesarai.github.io/Sarai-Portfolio/ !
