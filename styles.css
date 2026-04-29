@@ -718,13 +718,14 @@ textarea.contact-input {
 
 /* ===== FOOTER ===== */
 .footer {
-  background: #12122a;
-  padding: 48px 24px;
-  border-top: 1px solid rgba(232, 119, 34, 0.1);
+background: #12122a;
+padding: 48px 24px;
+ border-top: 1px solid rgba(232, 119, 34, 0.1);
+ flex-shrink: .5%;
 }
 
 .footer-container {
-  max-width: 1000px;
+  max-width: 700px;
   margin: 0 auto;
   display: flex;
   justify-content: space-between;
@@ -760,18 +761,7 @@ textarea.contact-input {
   width: 44px;
   height: 44px;
   border-radius: 12px;
-  color: solid rgba(232, 119, 34);
-  border: 1px solid rgba(232, 119, 34)
-}
-
-.social-icon {
-  display: flex;
-  align-items: center;
-  justify-content: center;
-  width: 44px;
-  height: 44px;
-  border-radius: 12px;
-  background-color: rgba(232, 119, 34, 0.12); 
+  background-color: rgba(232, 119, 34, 0.12); /* Light tinted background for visibility */
   border: 1px solid rgba(232, 119, 34);
   transition: background-color 0.3s ease, transform 0.3s ease;
 }
@@ -779,7 +769,7 @@ textarea.contact-input {
 .social-icon svg {
   width: 20px;
   height: 20px;
-  stroke: #e87722; /* Lucide icons use stroke, not fill */
+  stroke: #e87722; 
   stroke-width: 2;
 }
 
