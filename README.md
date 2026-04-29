@@ -1,7 +1,6 @@
 🌿 Sarai Roberson — Portfolio
-Software Engineer · Project Manager · Storyteller
-https://img.shields.io/badge/Live-Portfolio-green
-https://img.shields.io/github/last-commit/sunniesarai/Sarai-Portfolio
+Software Engineer · Full-Stack
+
 
 📖 Table of Contents
 Overview
@@ -132,5 +131,5 @@ LinkedIn: www.linkedin.com/in/xavier-roberson
 Email: xavierroberson177@gmail.com
 
 📄 License
-MIT © Sarai Roberson — you're welcome to fork this portfolio structure for your own use.
+Open source — you're welcome to fork this portfolio structure for your own use.
 
