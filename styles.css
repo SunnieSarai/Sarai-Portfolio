@@ -719,13 +719,13 @@ textarea.contact-input {
 /* ===== FOOTER ===== */
 .footer {
 background: #12122a;
-padding: 48px 24px;
+padding: 28px 24px;
  border-top: 1px solid rgba(232, 119, 34, 0.1);
  flex-shrink: .5%;
 }
 
 .footer-container {
-  max-width: 700px;
+  max-width: 1000px;
   margin: 0 auto;
   display: flex;
   justify-content: space-between;
